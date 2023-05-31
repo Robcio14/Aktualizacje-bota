@@ -1,0 +1,30 @@
+{
+  "name": "discordbotjs",
+  "version": "1.0.0",
+  "description": "ghosts.pl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js"
+  ],
+  "author": "Dwayne#7690",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-html-transcripts": "^3.1.3",
+    "discord-logs": "^2.2.1",
+    "discord-youtube": "^1.1.1",
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.4",
+    "ms": "^2.1.3",
+    "node-fetch": "^3.3.1",
+    "sqlite3": "^5.1.6"
+  }
+}
